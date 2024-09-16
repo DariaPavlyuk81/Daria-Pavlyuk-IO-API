@@ -125,7 +125,7 @@ li img {
     font-weight: bold;
     margin: 0;
     font-size: 2rem;
-    color: #775608;
+    color: #4f3905;
     line-height: 1.4;
     
 }
@@ -180,14 +180,6 @@ li img {
 }
 
 
-/* a {
-    color: #c6650a;
-text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-} */
 
 .image-container {
     display: flex;

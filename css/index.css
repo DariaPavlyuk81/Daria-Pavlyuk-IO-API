@@ -200,7 +200,14 @@ img {
     box-shadow: 10px 5px 10px #8a817c;
     margin: 20px;
 }
+#coffee-beans-image{
+    width:400px;
+    height:auto;
+    margin:20px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
+}
 #selection-screen {
     text-align: center;
     padding:20px;
